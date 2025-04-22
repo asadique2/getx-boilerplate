@@ -13,3 +13,10 @@
 **Simple, scalable, and clean code architecture**
 
 **Easy to maintain and extend**
+
+
+Clone the repository git clone https://github.com/asadique2/getx-boilerplate.git
+
+Install dependencies flutter pub get
+
+Run the app flutter run
